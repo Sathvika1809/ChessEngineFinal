@@ -1,14 +1,7 @@
 
-
-## Livesteam
-
-Significant portions of this project have been built on livestream to document the learning process.
-
-
-
 ## Using the Engine
 
-The current version of Wake is run using Python 3.x from the terminal.
+The current version of Chess is run using Python 3.x from the terminal.
 
 - Clone the directory
 
